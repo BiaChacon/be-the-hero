@@ -28,12 +28,13 @@ export default function Profile() {
 
     async function handlerDeleteIncident(id) {
         try {
-            await api.delete(`ìncidents/${id}`, {
+            await api.delete(`incidents/${id}`, {
                 headers: {
                     Authorization: ongId,
                 } 
             });
-            setIncidents(incidents.filter( incident => incident.id !== id ));
+            
+            setIncidents(incidents.filter(incident => incidents.id !== id));
         } catch (err) {
             alert('Erro ao deletar caso, tente novamente.')
         }
@@ -71,7 +72,7 @@ export default function Profile() {
                         <strong>VALOR:</strong>
                         <p>{Intl.NumberFormat('pt-BR', {style: 'currency', currency: 'BRL'}).format(incident.value)}</p>
 
-                        <button onClick={() => handlerDeleteIncident(incident.id)} type="button">
+                        <button onClick={ () => handlerDeleteIncident(incident.id)} type="button">
                             <FiTrash2 size={20} color="#a8a8b3" />
                         </button>
                     </li>
