@@ -55,6 +55,9 @@ Technologies used in the [mobile](https://github.com/BiaChacon/be-the-hero/tree/
 <img src="https://user-images.githubusercontent.com/42190754/77837045-d2638200-713a-11ea-9707-407b886d48bd.gif" float="center"/>
 </p>
 
+## License
+This project is under MIT. See at here [LICENSE](https://github.com/BiaChacon/be-the-hero/blob/master/LICENSE) for more informations.
+
 ## Author
 <table>
   <tr>
