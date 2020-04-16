@@ -13,7 +13,7 @@
 </p>
 <br>
 
-## About
+## About 
 Application created in RocketSeat Omnistack 11.0 week using 100% of the JavaScript stack with Node.js, React.js and React Native.
 
 This specific project has the main objective of helping ONGs. Therefore, an application was created where ONGs can store and spread their incidents. It can store information about each incident and the value each ONG needs to deal with the incident, so that anyone interested in helping can contribute. It is easy to contribute, as the web page has all the necessary information and the mobile application has a place for the user to send a WhatsApp message or E-mail.
@@ -55,10 +55,10 @@ Technologies used in the [mobile](https://github.com/BiaChacon/be-the-hero/tree/
 <img src="https://user-images.githubusercontent.com/42190754/77837045-d2638200-713a-11ea-9707-407b886d48bd.gif" float="center"/>
 </p>
 
-## License
+## License 📝 
 This project is under MIT. See at here [LICENSE](https://github.com/BiaChacon/be-the-hero/blob/master/LICENSE) for more informations.
 
-## Author
+## Author 
 <table>
   <tr>
     <td align="center"><a href="https://github.com/biachacon"><img src="https://avatars1.githubusercontent.com/u/42190754?s=460&u=a5cbe42a4868b2bac9615226044b9cec15cee418&v=4" width="100px;" alt=""/><br /><sub><b>Bia Chacon</b></sub></a><br /><a href="https://github.com/BiaChacon/be-the-hero" title="Code">💻</a></td>
